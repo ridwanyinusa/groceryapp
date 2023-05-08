@@ -1,0 +1,10 @@
+{
+  "builds": [
+    {
+      "src": "src/index.js",
+      "config": {
+        "serverFiles": ["package.json"]
+      }
+    }
+  ]
+}
